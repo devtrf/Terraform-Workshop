@@ -32,4 +32,4 @@ Welcome to the Azure Terraform Workshop! Before starting the labs, please follow
 - Install [Visual Studio Code](https://code.visualstudio.com/)
 - Install the [Terraform extension for VS Code](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
 
-You're now ready to start the labs
+You're now ready to start the labs!

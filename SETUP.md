@@ -7,7 +7,7 @@ Welcome to the Azure Terraform Workshop! Before starting the labs, please follow
 - An [Azure account](https://azure.microsoft.com/free/)
 
 ## 2. Install Terraform
-- Download Terraform: https://www.terraform.io/downloads.html
+- Download Terraform: https://developer.hashicorp.com/terraform/install
 - Follow the installation instructions for your OS.
 - Verify installation:
   ```sh
@@ -15,7 +15,7 @@ Welcome to the Azure Terraform Workshop! Before starting the labs, please follow
   ```
 
 ## 3. Install Azure CLI
-- Download and install Azure CLI: https://docs.microsoft.com/cli/azure/install-azure-cli
+- Download and install Azure CLI: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 - Verify installation:
   ```sh
   az --version

@@ -1,5 +1,6 @@
 provider "azurerm" {
   features {}
+  subscription_id = "ff8edce8-ef8b-4cd3-8a74-ef12aeb55a5f"
 }
 
 resource "azurerm_resource_group" "workshop" {
@@ -20,3 +21,5 @@ resource "azurerm_subnet" "workshop_subnet" {
   virtual_network_name = azurerm_virtual_network.workshop_vnet.name
   address_prefixes     = ["10.0.1.0/24"]
 }
+
+This is a test for Josh
